@@ -22,7 +22,7 @@ gem 'coffee-rails', '~> 4.2'
 
 # custom required gems
 # gem 'net/http'
-gem 'open-uri'
+# gem 'open-uri'
 gem 'pry'
 gem 'json'
 # require 'active_support/all'
