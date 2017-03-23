@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/s8sachin/mysore_city_bus.png?label=ready&title=Ready)](https://waffle.io/s8sachin/mysore_city_bus)
 # README
 
 This README would normally document whatever steps are necessary to get the
