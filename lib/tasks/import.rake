@@ -17,7 +17,7 @@ namespace :import do
 			else
 				bus_route = BusRoute.new(:bus_num => row[:bus_num], :route => row[:route])
 				if bus_route.valid? && bus_route.save
-					p "Bus with bus number #{bus_route.bus_num} is CREATED"
+					p "Bus Route with bus number #{bus_route.bus_num} is CREATED"
 				else
 					p "Error! #{bus_route.errors.full_messages.to_sentence}"
 				end
