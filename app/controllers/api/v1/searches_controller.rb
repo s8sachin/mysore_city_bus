@@ -17,4 +17,10 @@ class Api::V1::SearchesController < ApplicationController
     render json: {message: "List of all bus numbers from #{params[:source] } to #{params[:destination]}", data: @bus_routes.pluck(:bus_num), status_code: 201}
   end
 
+  def list_of_bus_on_bus_stop
+    @bus_stop = params[:bus_stop]
+    @bus_routes = BusRoute.where("route @> ARRAY[?]::varchar[]", [@bus_stop])
+    render json: {message: "List of all bus numbers on #{params[:bus_stop] }", data: @bus_routes.pluck(:bus_num), status_code: 201}
+  end
+
 end
