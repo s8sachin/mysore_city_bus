@@ -1,0 +1,12 @@
+languages:
+  Ruby: true
+exclude_paths:
+- config/**
+- lib/**
+- db/**
+- coverage/assets/**
+- spec/**
+- app/assets/**
+- vendor/**
+- app/controllers/application_controller.rb
+- Gemfile.lock
