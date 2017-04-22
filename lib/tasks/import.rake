@@ -15,7 +15,7 @@ namespace :import do
 			if bus_route.present?
 				p "Bus with num #{bus_route.bus_num} is ALREADY PRESENT"
 			else
-				bus_route = BusRoute.new(:bus_num => row[:bus_num], :route => row[:route])
+				bus_route = BusRoute.new(:bus_num => row[:bus_num], :route => JSON.parse(row[:route]).map(&:strip))
 				if bus_route.valid? && bus_route.save
 					p "Bus Route with bus number #{bus_route.bus_num} is CREATED"
 				else
