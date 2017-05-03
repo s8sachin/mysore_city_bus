@@ -37,17 +37,27 @@ This app is deployed on Heroku and the api can be used from heroku.
 
 eg: https://mcb-api.herokuapp.com/get_all_bus_numbers
 
-2. Get list of routes from a bus number `/get_routes_by_bus_num/:bus_num` 
+2. Get list of all bus stops API Path `/get_all_bus_stops`
 
-eg: https://mcb-api.herokuapp.com/get_routes_by_bus_num/119%20Up
+eg: https://mcb-api.herokuapp.com/get_all_bus_stops
 
-3. Get list of bus numbers by "source" and "destination" `/get_bus_numbers_by_source_and_destination/:source/:destination` 
+3. Get list of routes from a bus number `/get_routes_by_bus_num?bus_num=`
 
-eg: https://mcb-api.herokuapp.com/get_bus_numbers_by_source_and_destination/Palace%20Bus%20Stop/Infosys
+request params : "bus_num"
 
-4. Get list of buses going on a perticular "bus stop" `/list_of_bus_on_bus_stop/:bus_stop` 
+eg: https://mcb-api.herokuapp.com/get_routes_by_bus_num?bus_num=119%20Up
 
-eg: https://mcb-api.herokuapp.com/list_of_bus_on_bus_stop/Adithya%20Hospital
+4. Get list of bus numbers by "source" and "destination" `/get_bus_numbers_by_source_and_destination?source=&destination=` 
+
+request params : "source" , "destination"
+
+eg: https://mcb-api.herokuapp.com/get_bus_numbers_by_source_and_destination?source=Dasappa%20Circle&destination=Infosys
+
+5. Get list of buses going on a perticular "bus stop" `/list_of_bus_on_bus_stop?bus_stop=` 
+
+request params : "bus_stop"
+
+eg: http://mcb-api.herokuapp.com/list_of_bus_on_bus_stop?bus_stop=Dasappa%20Circle
 
 
 #### Fork and help us improve ### :)
