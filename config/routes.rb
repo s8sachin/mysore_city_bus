@@ -5,10 +5,10 @@ Rails.application.routes.draw do
   
   get "/get_all_bus_stops" => "api/v1/searches#get_all_bus_stops"
 
-  get "/get_routes_by_bus_num/:bus_num" => "api/v1/searches#get_routes_by_bus_num"
+  get "/get_routes_by_bus_num" => "api/v1/searches#get_routes_by_bus_num"
   
-  get "/get_bus_numbers_by_source_and_destination/:source/:destination" => "api/v1/searches#get_bus_numbers_by_source_and_destination"
+  get "/get_bus_numbers_by_source_and_destination" => "api/v1/searches#get_bus_numbers_by_source_and_destination"
 
-  get "/list_of_bus_on_bus_stop/:bus_stop" => "api/v1/searches#list_of_bus_on_bus_stop"
+  get "/list_of_bus_on_bus_stop" => "api/v1/searches#list_of_bus_on_bus_stop"
   
 end
