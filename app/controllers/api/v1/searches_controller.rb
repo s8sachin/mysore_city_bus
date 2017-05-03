@@ -5,6 +5,11 @@ class Api::V1::SearchesController < ApplicationController
     render json: {message: "List of all bus numbers", data: @bus_numbers, status_code: 201}
   end
 
+  def get_all_bus_stops
+    @bus_stops = BusRoute.pluck(:route).flatten.uniq
+    render json: {message: "List of all bus stops", data: @bus_stops, status_code: 201}
+  end
+
   def get_routes_by_bus_num
     @bus_route = BusRoute.find_by_bus_num(params[:bus_num])
     render json: {message: "List of all bus stops to #{params[:bus_num]}", data: @bus_route, status_code: 201}

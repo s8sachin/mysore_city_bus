@@ -2,6 +2,8 @@ Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
   get "/get_all_bus_numbers" => "api/v1/searches#get_all_bus_numbers"
+  
+  get "/get_all_bus_stops" => "api/v1/searches#get_all_bus_stops"
 
   get "/get_routes_by_bus_num/:bus_num" => "api/v1/searches#get_routes_by_bus_num"
   
