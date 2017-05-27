@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    Ascii85 (1.0.2)
     actioncable (5.0.2)
       actionpack (= 5.0.2)
       nio4r (>= 1.2, < 3.0)
@@ -91,6 +92,11 @@ GEM
     nio4r (2.0.0)
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
+    pdf-reader (1.1.1)
+      Ascii85 (~> 1.0.0)
+      ruby-rc4
+    pdf-reader-turtletext (0.2.2)
+      pdf-reader (= 1.1.1)
     pg (0.19.0)
     pry (0.10.4)
       coderay (~> 1.1.0)
@@ -144,6 +150,7 @@ GEM
       rspec-mocks (~> 3.5.0)
       rspec-support (~> 3.5.0)
     rspec-support (3.5.0)
+    ruby-rc4 (0.1.5)
     sass (3.4.23)
     sass-rails (5.0.6)
       railties (>= 4.0.0, < 6)
@@ -200,6 +207,7 @@ DEPENDENCIES
   jquery-rails
   json
   listen (~> 3.0.5)
+  pdf-reader-turtletext
   pg
   pry
   puma (~> 3.0)
