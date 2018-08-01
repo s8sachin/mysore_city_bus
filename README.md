@@ -8,6 +8,11 @@ This is just an open source API repo for <b>Mysore City Bus</b>. Created using w
 Original link to <a href="http://mitra.ksrtc.in/MysoreMBus/index_e.jsp">KSRTC ITS</a>
 We have just extracted data and saved in different format to serve our purpose.
 
+## Android App: ##
+<a href='https://play.google.com/store/apps/details?id=com.mysuru_commute&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='170px'/></a>
+
+This api is used in making an android app. Get it on playstore(click on above image).
+<hr>
 
 The web scrapping logic used can be found in `/lib/tasks` directory containing `rake` files.
 
