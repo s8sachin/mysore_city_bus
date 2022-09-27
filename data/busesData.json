@@ -360,7 +360,7 @@
           ],
           "minimalStops": [
               "Vijaya Nagara Depot",
-              null,
+              "CITB Choultry",
               "City Bus Stand"
           ]
       },
@@ -494,7 +494,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 14",
-              null,
+              "Bindu Bakery",
               "Gururu"
           ]
       },
@@ -757,7 +757,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 14",
-              null,
+              "St Thomas School",
               "Ramabai Nagar"
           ]
       },
@@ -1070,7 +1070,7 @@
           ],
           "minimalStops": [
               "Kalalawadi",
-              null,
+              "Vishveshwara Nagar",
               "City Bus Stand"
           ]
       },
@@ -1194,7 +1194,7 @@
           ],
           "minimalStops": [
               "JP Nagar Last Stop",
-              null,
+              "Karumariyamma Temple",
               "City Bus Stand"
           ]
       },
@@ -1605,7 +1605,7 @@
           ],
           "minimalStops": [
               "JP Nagar Last Stop",
-              null,
+              "Chamundipuram",
               "City Bus Stand"
           ]
       },
@@ -1798,7 +1798,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 21 - 2",
-              null,
+              "Yaraganahalli Circle",
               "Choranahalli"
           ]
       },
@@ -2218,7 +2218,7 @@
           ],
           "minimalStops": [
               "City Bus Stand PF - 24",
-              null,
+              "Jockey Quarters",
               "IPSLAYOUT"
           ]
       },
@@ -2381,7 +2381,7 @@
           ],
           "minimalStops": [
               "City Bus Stand PF - 24",
-              null,
+              "Hadajana Cross",
               "Adakanahalli Hundi"
           ]
       },
@@ -2475,7 +2475,7 @@
           ],
           "minimalStops": [
               "Adakanahalli Hundi",
-              null,
+              "RMC",
               "City Bus Stand"
           ]
       },
@@ -2639,7 +2639,7 @@
           ],
           "minimalStops": [
               "City Bus Stand PF - 24",
-              null,
+              "Thukadi Madaiahna Hundi",
               "Suttur Circle"
           ]
       },
@@ -2902,7 +2902,7 @@
           ],
           "minimalStops": [
               "KENCHALAGUDU",
-              null,
+              "Nachanahalli Palya",
               "City Bus Stand"
           ]
       },
@@ -3035,7 +3035,7 @@
           ],
           "minimalStops": [
               "Sinduvalli",
-              null,
+              "Railway Work Shop",
               "City Bus Stand"
           ]
       },
@@ -3696,7 +3696,7 @@
           ],
           "minimalStops": [
               "Hampapura",
-              null,
+              "Gowhalli",
               "City Bus Stand"
           ]
       },
@@ -3860,7 +3860,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 32",
-              null,
+              "Yashaswi Choultry",
               "Seegahalli"
           ]
       },
@@ -4372,7 +4372,7 @@
           ],
           "minimalStops": [
               "Bilikere",
-              null,
+              "Yashaswi Choultry",
               "City Bus Stand"
           ]
       },
@@ -5213,7 +5213,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 32",
-              null,
+              "HootagalliHousingBoard",
               "Gerasanahalli"
           ]
       },
@@ -5407,7 +5407,7 @@
           ],
           "minimalStops": [
               "Gerasanahalli",
-              null,
+              "Hootagalli",
               "City Bus Stand"
           ]
       },
@@ -5979,7 +5979,7 @@
           ],
           "minimalStops": [
               "Ramenahalli",
-              null,
+              "SRS Hootgalli",
               "City Bus Stand"
           ]
       },
@@ -6371,7 +6371,7 @@
           ],
           "minimalStops": [
               "Boating Point",
-              null,
+              "Coffee Curing Works",
               "City Bus Stand"
           ]
       },
@@ -6604,7 +6604,7 @@
           ],
           "minimalStops": [
               "Coorgalli",
-              null,
+              "Mathru Mandali",
               "City Bus Stand"
           ]
       },
@@ -6907,7 +6907,7 @@
           ],
           "minimalStops": [
               "KRS Grama",
-              null,
+              "Ring Road Junction",
               "City Bus Stand"
           ]
       },
@@ -7429,7 +7429,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 22",
-              null,
+              "Pump House",
               "Pandavapura"
           ]
       },
@@ -8011,7 +8011,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 22",
-              null,
+              "Temple",
               "Sitapura"
           ]
       },
@@ -8205,7 +8205,7 @@
           ],
           "minimalStops": [
               "Sitapura",
-              null,
+              "Vikranth Tyres",
               "City Bus Stand"
           ]
       },
@@ -8339,7 +8339,7 @@
           ],
           "minimalStops": [
               "City Bus Stand",
-              null,
+              "Coffee Curing Works",
               "LnT"
           ]
       },
@@ -9358,7 +9358,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 22",
-              null,
+              "Sunanda",
               "Sri Rangapatna Bus Stand"
           ]
       },
@@ -9671,7 +9671,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 25",
-              null,
+              "Halagaiana Hundi",
               "Mahadevapura 1"
           ]
       },
@@ -9825,7 +9825,7 @@
           ],
           "minimalStops": [
               "Mahadevapura 1",
-              null,
+              "Bhugathagalli Gate",
               "City Bus Stand"
           ]
       },
@@ -9949,7 +9949,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 25",
-              null,
+              "Nadanahalli Gate",
               "Channahalli"
           ]
       },
@@ -10073,7 +10073,7 @@
           ],
           "minimalStops": [
               "Channahalli",
-              null,
+              "Ring Road",
               "City Bus Stand"
           ]
       },
@@ -10286,7 +10286,7 @@
           ],
           "minimalStops": [
               "Sri Rangapatna Bus Stand",
-              null,
+              "Siddique Mohalla",
               "City Bus Stand"
           ]
       },
@@ -10886,7 +10886,7 @@
           ],
           "minimalStops": [
               "City Bus Stand PF - 24",
-              null,
+              "Columbia Asia Hospital",
               "NaganahalliBadavane"
           ]
       },
@@ -10970,7 +10970,7 @@
           ],
           "minimalStops": [
               "NaganahalliBadavane",
-              null,
+              "JSS Medical College",
               "City Bus Stand"
           ]
       },
@@ -11223,7 +11223,7 @@
           ],
           "minimalStops": [
               "Melapura",
-              null,
+              "Columbia Asia Hospital",
               "City Bus Stand"
           ]
       },
@@ -11446,7 +11446,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 30",
-              null,
+              "Nadanahalli Gate",
               "Huralikyatanahalli 2"
           ]
       },
@@ -11798,7 +11798,7 @@
           ],
           "minimalStops": [
               "Anuganahalli",
-              null,
+              "Harsha Bar",
               "City BusStand"
           ]
       },
@@ -11912,7 +11912,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 33",
-              null,
+              "Kote Hundi Gate",
               "Tibbaiana Hundi"
           ]
       },
@@ -12026,7 +12026,7 @@
           ],
           "minimalStops": [
               "Tibbaiana Hundi",
-              null,
+              "Toll Gate",
               "City Bus Stand"
           ]
       },
@@ -12516,7 +12516,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 30",
-              null,
+              "Deepa Nagar",
               "Shettynayakanahalli"
           ]
       },
@@ -12640,7 +12640,7 @@
           ],
           "minimalStops": [
               "Shettynayakanahalli",
-              null,
+              "Amrutanandamayi Mutt",
               "City BusStand"
           ]
       },
@@ -13022,7 +13022,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 27",
-              null,
+              "Halagaiana Hundi",
               "Bannur"
           ]
       },
@@ -13176,7 +13176,7 @@
           ],
           "minimalStops": [
               "Bannur",
-              null,
+              "Bhugathagalli Gate",
               "City Bus Stand"
           ]
       },
@@ -13588,7 +13588,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 26",
-              null,
+              "Bhugathagalli Gate",
               "Basavanagudi"
           ]
       },
@@ -13722,7 +13722,7 @@
           ],
           "minimalStops": [
               "Basavanagudi",
-              null,
+              "Vidya Vikas College",
               "City Bus Stand"
           ]
       },
@@ -14125,7 +14125,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 25",
-              null,
+              "Mellahalli",
               "City Bus Stand"
           ]
       },
@@ -14467,7 +14467,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 25",
-              null,
+              "Nadanahalli Gate",
               "Varkodu"
           ]
       },
@@ -14551,7 +14551,7 @@
           ],
           "minimalStops": [
               "Varkodu",
-              null,
+              "Yaraganahalli Circle",
               "City Bus Stand"
           ]
       },
@@ -14665,7 +14665,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 30",
-              null,
+              "Rajashekhar Hospital",
               "M C Hundi Gate"
           ]
       },
@@ -14998,7 +14998,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 30",
-              null,
+              "Rangasamudra Gate",
               "City Bus Stand"
           ]
       },
@@ -15242,7 +15242,7 @@
           ],
           "minimalStops": [
               "Sathagalli Depot OUT Gate",
-              null,
+              "Rangasamudra Gate",
               "City Bus Stand"
           ]
       },
@@ -15376,7 +15376,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 29",
-              null,
+              "Varuna Cross",
               "Thyur"
           ]
       },
@@ -15758,7 +15758,7 @@
           ],
           "minimalStops": [
               "Thyur Gate",
-              null,
+              "Chikkalli",
               "City Bus Stand"
           ]
       },
@@ -16398,7 +16398,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 29",
-              null,
+              "Morarji School",
               "Bilugali"
           ]
       },
@@ -16800,7 +16800,7 @@
           ],
           "minimalStops": [
               "Devegowdana Hundi",
-              null,
+              "Chikkalli",
               "City Bus Stand"
           ]
       },
@@ -17013,7 +17013,7 @@
           ],
           "minimalStops": [
               "Najangud",
-              null,
+              "Bandi Palya",
               "City Bus Stand"
           ]
       },
@@ -17107,7 +17107,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 28",
-              null,
+              "Bandi Palya",
               "KadakolaMit"
           ]
       },
@@ -17201,7 +17201,7 @@
           ],
           "minimalStops": [
               "KadakolaMit",
-              null,
+              "RMC",
               "City Bus Stand"
           ]
       },
@@ -17513,7 +17513,7 @@
           ],
           "minimalStops": [
               "Bannur",
-              null,
+              "Halagaiana Hundi",
               "City Bus Stand"
           ]
       },
@@ -17894,7 +17894,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 16",
-              null,
+              "Maruthi Temple",
               "Sangam Bhandar"
           ]
       },
@@ -17998,7 +17998,7 @@
           ],
           "minimalStops": [
               "Sangam Bhandar",
-              null,
+              "Saraswathipuram 8th Main",
               "City Bus Stand"
           ]
       },
@@ -18490,7 +18490,7 @@
           ],
           "minimalStops": [
               "BEML Nagar",
-              null,
+              "City Bus Stand - PF 19",
               "BEML Nagar"
           ]
       },
@@ -18772,7 +18772,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 18",
-              null,
+              "KUVEMPU NAGAR KEB",
               "Ramakrishna Nagar H Block"
           ]
       },
@@ -18876,7 +18876,7 @@
           ],
           "minimalStops": [
               "Ramakrishna Nagar H Block",
-              null,
+              "KG Koppal",
               "City Bus Stand"
           ]
       },
@@ -19367,7 +19367,7 @@
           ],
           "minimalStops": [
               "Somanatha Nagar",
-              null,
+              "Maruthi Temple",
               "City BusStand"
           ]
       },
@@ -19471,7 +19471,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 17",
-              null,
+              "Amma Complex",
               "Ganapathi Temple"
           ]
       },
@@ -19784,7 +19784,7 @@
           ],
           "minimalStops": [
               "Sathagalli Bus Stand",
-              null,
+              "City Bus Stand - PF 20",
               "BEML Nagar"
           ]
       },
@@ -19988,7 +19988,7 @@
           ],
           "minimalStops": [
               "BEML Nagar",
-              null,
+              "HardingeCircle",
               "Sathagalli Bus Stand"
           ]
       },
@@ -20894,7 +20894,7 @@
           ],
           "minimalStops": [
               "Orchid School",
-              null,
+              "KG Koppal",
               "City Bus Stand"
           ]
       },
@@ -21008,7 +21008,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 19",
-              null,
+              "M Block",
               "ULO"
           ]
       },
@@ -21132,7 +21132,7 @@
           ],
           "minimalStops": [
               "ULO",
-              null,
+              "Akshaya Bhandar",
               "City Bus Stand"
           ]
       },
@@ -21763,7 +21763,7 @@
           ],
           "minimalStops": [
               "Naidu Stores",
-              null,
+              "Under Bridge",
               "City Bus Stand"
           ]
       },
@@ -21897,7 +21897,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 15",
-              null,
+              "Maruthi Tent",
               "Basavanapura"
           ]
       },
@@ -22041,7 +22041,7 @@
           ],
           "minimalStops": [
               "Basavanapura",
-              null,
+              "Kuvempu School",
               "City Bus Stand"
           ]
       },
@@ -22145,7 +22145,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 32",
-              null,
+              "St Joseph Convent",
               "Basavanapura"
           ]
       },
@@ -22239,7 +22239,7 @@
           ],
           "minimalStops": [
               "City Bus Stand - PF 31",
-              null,
+              "Mathru Mandali",
               "Vijaya Nagara Depot"
           ]
       },
@@ -22333,7 +22333,7 @@
           ],
           "minimalStops": [
               "Vijaya Nagara Depot",
-              null,
+              "Vonti Koppal Temple",
               "City Bus Stand"
           ]
       }
