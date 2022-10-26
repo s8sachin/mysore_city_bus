@@ -1,5 +1,5 @@
 {
-    "version": 1.1,
+    "version": 1.0,
     "data": {
         "10C Up": {
             "routes": [
@@ -338,7 +338,7 @@
                     "time": "12:47,11:27,09:57,14:32,17:47,20:27,20:57,17:27,11:12"
                 },
                 {
-                    "stop": "VontiKoppalTemple",
+                    "stop": "Vonti Koppal Temple",
                     "distance": "10.48",
                     "time": "11:16,12:51,11:31,10:01,14:36,17:51,20:31,21:01,17:31"
                 },
@@ -1608,7 +1608,7 @@
                     "time": "12:11,19:11,19:16,12:46,17:46,11:41,20:18,21:31,11:31,12:36"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "14.32",
                     "time": "19:13,19:18,12:48,17:48,11:43,20:20,21:33,11:33,12:38,12:13"
                 },
@@ -1632,7 +1632,7 @@
                     "time": "09:45,15:15,13:05,13:40,06:00"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "2.9",
                     "time": "13:49,06:09,09:54,15:24,13:14"
                 },
@@ -2119,7 +2119,7 @@
                     "time": "21:06,19:11,13:31,13:51,18:13,14:01,22:46,22:31,12:56"
                 },
                 {
-                    "stop": "SankranthiCircle",
+                    "stop": "Sankranthi Circle",
                     "distance": "12.33",
                     "time": "14:02,22:47,22:32,12:57,21:07,19:12,13:32,13:52,18:14"
                 },
@@ -2253,7 +2253,7 @@
                     "time": "08:56,06:11,06:41,05:51,15:01,15:36,14:21"
                 },
                 {
-                    "stop": "BharathCancerHospital",
+                    "stop": "Bharath Cancer Hospital",
                     "distance": "7.54",
                     "time": "15:03,15:38,14:23,08:58,06:13,06:43,05:53"
                 },
@@ -2741,7 +2741,7 @@
                     "time": "16:46,07:51,16:46,07:51,18:41,10:56,18:41,10:56,15:36"
                 },
                 {
-                    "stop": "CauveryCircle",
+                    "stop": "Cauvery Circle",
                     "distance": "14.01",
                     "time": "16:47,07:52,16:47,07:52,18:42,10:57,18:42,10:57,15:37"
                 },
@@ -2895,7 +2895,7 @@
                     "time": "17:36,08:31,17:36,08:31,16:26,19:26,11:51,19:26,11:51,07:06"
                 },
                 {
-                    "stop": "VontiKoppalTemple",
+                    "stop": "Vonti Koppal Temple",
                     "distance": "9.15",
                     "time": "08:32,17:37,08:32,16:27,19:27,11:52,19:27,11:52,07:07,17:37"
                 },
@@ -3442,7 +3442,7 @@
                     "time": "07:01,07:01,15:51,15:51,22:01"
                 },
                 {
-                    "stop": "RailwayStation",
+                    "stop": "Railway Station",
                     "distance": "17.3",
                     "time": "15:52,15:52,22:02,07:02,07:02"
                 },
@@ -4871,7 +4871,7 @@
                     "time": "13:34,14:49"
                 },
                 {
-                    "stop": "SankranthiCircle",
+                    "stop": "Sankranthi Circle",
                     "distance": "12.04",
                     "time": "13:36,14:51 "
                 },
@@ -4978,7 +4978,7 @@
             ],
             "minimalStops": [
                 "City Bus Stand",
-                "SankranthiCircle",
+                "Sankranthi Circle",
                 "City Bus Stand"
             ]
         },
@@ -5090,7 +5090,7 @@
                     "time": "09:49"
                 },
                 {
-                    "stop": "HampiCircle",
+                    "stop": "Hampi Circle",
                     "distance": "11.94",
                     "time": "09:50 "
                 },
@@ -5428,7 +5428,7 @@
                     "time": "18:38"
                 },
                 {
-                    "stop": "CauveryCircle",
+                    "stop": "Cauvery Circle",
                     "distance": "11.46",
                     "time": "18:39 "
                 },
@@ -6508,7 +6508,7 @@
                     "time": "09:50,06:55,18:50,15:50,11:20,08:20,20:10,17:35,14:30"
                 },
                 {
-                    "stop": "MaharshiPublicSchool",
+                    "stop": "Maharshi Public School",
                     "distance": "5.15",
                     "time": "08:55,06:15,20:45,18:10,15:05,10:35,07:35,19:25,16:40,12:00"
                 },
@@ -6727,7 +6727,7 @@
                     "time": "14:30,09:50,06:55,18:50,15:50,11:20,08:20,20:10,17:35"
                 },
                 {
-                    "stop": "MaharshiPublicSchool",
+                    "stop": "Maharshi Public School",
                     "distance": "5.15",
                     "time": "12:00,08:55,06:15,20:45,18:10,15:05,10:35,07:35,19:25,16:40"
                 },
@@ -7499,7 +7499,7 @@
                     "time": "13:03,15:13,11:03,16:48"
                 },
                 {
-                    "stop": "BinduBakery",
+                    "stop": "Bindu Bakery",
                     "distance": "10.02",
                     "time": "15:15,11:05,16:50,13:05"
                 },
@@ -7887,7 +7887,7 @@
                     "time": "20:06,20:06"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "39.24",
                     "time": "20:08,20:08"
                 },
@@ -7996,7 +7996,7 @@
                     "time": "11:14,21:42,22:04,18:46,20:44,17:54,15:51,11:09,08:39,20:56,18:24,10:24,20:24,19:04,16:49,12:14,09:54"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "8.55",
                     "time": "21:44,22:06,18:48,20:46,17:56,15:53,11:11,08:41,20:58,18:26,10:26,20:26,19:06,16:51,12:16,09:56,11:16"
                 },
@@ -8030,7 +8030,7 @@
                     "time": "20:36,20:56,18:06,15:56,11:21,08:51,11:06,10:51,12:51,19:21,17:01,12:31,10:16,11:31"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "0.9",
                     "time": "10:53,12:53,19:23,17:03,12:33,10:18,11:33,20:38,20:58,18:08,15:58,11:23,08:53,11:08"
                 },
@@ -8224,7 +8224,7 @@
                     "time": "17:36,21:49,16:39,12:14,11:19,13:24,17:37"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "6.94",
                     "time": "17:39,17:38,21:51,16:41,12:16,11:21,13:26"
                 },
@@ -8258,7 +8258,7 @@
                     "time": "06:39,06:49,13:54,14:59,07:54,14:09,14:29,13:09,14:49"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "4.9",
                     "time": "14:55,06:45,06:55,14:00,15:05,08:00,14:15,14:35,13:15"
                 },
@@ -8348,7 +8348,7 @@
                     "time": "07:04,07:14,14:19,15:24,08:19,14:34,14:54,13:34,15:14"
                 },
                 {
-                    "stop": "City BusStand",
+                    "stop": "City Bus Stand",
                     "distance": "12.45",
                     "time": "07:07,07:17,14:22,15:27,08:22,14:37,14:57,13:37,15:17"
                 }
@@ -8356,7 +8356,7 @@
             "minimalStops": [
                 "Sathagalli Depot OUT Gate",
                 "Gayathripuram",
-                "City BusStand"
+                "City Bus Stand"
             ]
         },
         "161E Up": {
@@ -8452,7 +8452,7 @@
                     "time": "14:53,12:03,15:53,13:38,10:33"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "8.24",
                     "time": "10:35,14:55,12:05,15:55,13:40"
                 },
@@ -8476,7 +8476,7 @@
                     "time": "15:00,12:20,16:10,14:00,10:40"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "0.5",
                     "time": "16:12,14:02,10:42,15:02,12:22"
                 },
@@ -8670,7 +8670,7 @@
                     "time": "17:04,18:19"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "8.27",
                     "time": "17:05,18:20"
                 },
@@ -8714,7 +8714,7 @@
                     "time": "09:07,17:27"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "2.97",
                     "time": "09:09,17:29"
                 },
@@ -9576,7 +9576,7 @@
                     "time": "08:48,06:03,21:18,18:33,15:33,10:18,07:28,19:53,16:48,11:53"
                 },
                 {
-                    "stop": "ShankarNursingHome",
+                    "stop": "Shankar Nursing Home",
                     "distance": "6.3",
                     "time": "18:34,15:34,10:19,07:29,19:54,16:49,11:54,08:49,06:04,21:19"
                 },
@@ -9929,7 +9929,7 @@
                     "time": "16:14,09:34,18:34,13:29"
                 },
                 {
-                    "stop": "DoddaGadiyara",
+                    "stop": "Dodda Gadiyara",
                     "distance": "10.63",
                     "time": "16:17,09:37,18:37,13:32"
                 },
@@ -10835,7 +10835,7 @@
                     "time": "13:01,14:06,11:56"
                 },
                 {
-                    "stop": "MysoreRural BusStand",
+                    "stop": "Mysore Rural Bus Stand",
                     "distance": "7.65",
                     "time": "14:08,11:58,13:03 "
                 },
@@ -12082,7 +12082,7 @@
                     "time": "14:45,22:57,22:33,17:52,11:38,19:33"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "27.66",
                     "time": "14:50,23:02,22:38,17:57,11:43,19:38"
                 },
@@ -12136,7 +12136,7 @@
                     "time": "15:10,06:10,06:40,18:17,12:03,19:58"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "3.5",
                     "time": "06:11,06:41,18:18,12:04,19:59,15:11"
                 },
@@ -12593,7 +12593,7 @@
                     "time": "10:45,15:45,08:05,19:07"
                 },
                 {
-                    "stop": "AyrahalliAralimara",
+                    "stop": "Ayrahalli Arali Mara",
                     "distance": "18.26",
                     "time": "15:50,08:10,19:12,10:50"
                 },
@@ -12628,7 +12628,7 @@
                     "time": "19:35,11:13,16:13,08:33"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "27.66",
                     "time": "11:18,16:18,08:38,19:40"
                 },
@@ -12712,7 +12712,7 @@
                     "time": "16:53,08:47,20:15,11:27"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "5.9",
                     "time": "16:54,08:48,20:16,11:28"
                 },
@@ -12777,7 +12777,7 @@
                     "time": "20:58,12:10,17:36,09:30"
                 },
                 {
-                    "stop": "DevalapuraJSS School",
+                    "stop": "Devalapura JSS School",
                     "distance": "20.65",
                     "time": "21:00,12:12,17:38,09:32"
                 },
@@ -14179,7 +14179,7 @@
                     "time": "08:29,18:59"
                 },
                 {
-                    "stop": "Byathahalli",
+                    "stop": "BYATHAHALLI",
                     "distance": "16",
                     "time": "08:33,19:03"
                 },
@@ -14243,7 +14243,7 @@
                     "time": "17:16,06:54,10:34"
                 },
                 {
-                    "stop": "Byathahalli",
+                    "stop": "BYATHAHALLI",
                     "distance": "8.68",
                     "time": "10:36,17:18,06:56"
                 },
@@ -14337,7 +14337,7 @@
                     "time": "20:18,15:13,16:21,09:43"
                 },
                 {
-                    "stop": "Byathahalli",
+                    "stop": "BYATHAHALLI",
                     "distance": "2.6",
                     "time": "20:23,15:18,16:26,09:48"
                 },
@@ -14401,7 +14401,7 @@
                     "time": "16:08,09:24,19:54,14:59"
                 },
                 {
-                    "stop": "Byathahalli",
+                    "stop": "BYATHAHALLI",
                     "distance": "8.68",
                     "time": "16:10,09:26,19:56,15:01"
                 },
@@ -17564,7 +17564,7 @@
                     "time": "16:25"
                 },
                 {
-                    "stop": "Vani VilasMarket",
+                    "stop": "Vani Vilas Market",
                     "distance": "33.25",
                     "time": "16:27 "
                 },
@@ -19084,7 +19084,7 @@
                     "time": "09:27,18:32"
                 },
                 {
-                    "stop": "SanskritPathashale",
+                    "stop": "Sanskrit Pathashale",
                     "distance": "23.48",
                     "time": "09:27,18:32 "
                 },
@@ -19798,7 +19798,7 @@
                     "time": "10:40,16:50"
                 },
                 {
-                    "stop": "ShettynayakanahalliGate",
+                    "stop": "Shettynayakanahalli Gate",
                     "distance": "16.69",
                     "time": "16:53,10:43 "
                 },
@@ -19937,7 +19937,7 @@
                     "time": "11:52,18:02,09:33"
                 },
                 {
-                    "stop": "GangothriGuestHouse",
+                    "stop": "Gangothri Guest House",
                     "distance": "19.42",
                     "time": "09:40,11:59,18:09 "
                 },
@@ -20781,7 +20781,7 @@
                     "time": "15:42"
                 },
                 {
-                    "stop": "ShettynayakanahalliGate",
+                    "stop": "Shettynayakanahalli Gate",
                     "distance": "16.69",
                     "time": "15:45 "
                 },
@@ -20990,7 +20990,7 @@
                     "time": "18:13"
                 },
                 {
-                    "stop": "KHemmanahalli",
+                    "stop": "K Hemmanahalli",
                     "distance": "34.59",
                     "time": "18:14 "
                 },
@@ -21343,7 +21343,7 @@
                     "time": "17:44,10:18,06:03,08:03,20:03,15:25,08:03,10:18,06:03"
                 },
                 {
-                    "stop": "MathruMandali",
+                    "stop": "Mathru Mandali",
                     "distance": "16.41",
                     "time": "15:26,08:04,10:19,06:04,17:45,10:19,06:04,08:04,20:04"
                 },
@@ -22912,7 +22912,7 @@
                     "time": "06:42"
                 },
                 {
-                    "stop": "VontiKoppalTemple",
+                    "stop": "Vonti Koppal Temple",
                     "distance": "21.29",
                     "time": "06:44 "
                 },
@@ -23516,7 +23516,7 @@
                     "time": "14:19,09:17,11:39"
                 },
                 {
-                    "stop": "HootagalliHousingBoard",
+                    "stop": "Hootagalli Housing Board",
                     "distance": "11.88",
                     "time": "11:41,14:21,09:19"
                 },
@@ -23675,7 +23675,7 @@
                     "time": "12:55,08:24,15:35,10:33"
                 },
                 {
-                    "stop": "MathruMandali",
+                    "stop": "Mathru Mandali",
                     "distance": "14.91",
                     "time": "08:25,15:36,10:34,12:56"
                 },
@@ -24171,7 +24171,7 @@
                     "time": "14:23,17:07,09:27,21:22"
                 },
                 {
-                    "stop": "HootagalliHousingBoard",
+                    "stop": "Hootagalli Housing Board",
                     "distance": "12.81",
                     "time": "17:08,09:28,21:23,14:24"
                 },
@@ -25320,7 +25320,7 @@
                     "time": "06:39,09:19,13:31"
                 },
                 {
-                    "stop": "HootagalliHousingBoard",
+                    "stop": "Hootagalli Housing Board",
                     "distance": "11.88",
                     "time": "09:21,13:33,06:41"
                 },
@@ -25412,7 +25412,7 @@
             ],
             "minimalStops": [
                 "City Bus Stand",
-                "HootagalliHousingBoard",
+                "Hootagalli Housing Board",
                 "Gerasanahalli"
             ]
         },
@@ -25708,7 +25708,7 @@
                     "time": "16:56,09:02,07:27"
                 },
                 {
-                    "stop": "HootagalliHousingBoard",
+                    "stop": "Hootagalli Housing Board",
                     "distance": "12.81",
                     "time": "09:03,07:28,16:57"
                 },
@@ -26740,7 +26740,7 @@
                     "time": "22:11,11:06,06:43,07:36,13:54,08:46,22:06"
                 },
                 {
-                    "stop": "MetagalliPoliceStation",
+                    "stop": "Metagalli Police Station",
                     "distance": "7.66",
                     "time": "13:56,08:48,22:08,22:13,11:08,06:45,07:38"
                 },
@@ -27267,7 +27267,7 @@
                     "time": "08:33,06:28"
                 },
                 {
-                    "stop": "DasappaCircle",
+                    "stop": "Dasappa Circle",
                     "distance": "21.7",
                     "time": "08:35,06:30 "
                 },
@@ -27615,7 +27615,7 @@
                     "time": "15:28,10:58,14:58"
                 },
                 {
-                    "stop": "VikranthTyres",
+                    "stop": "Vikranth Tyres",
                     "distance": "29.52",
                     "time": "14:59,15:29,10:59"
                 },
@@ -29037,7 +29037,7 @@
                     "time": "10:46"
                 },
                 {
-                    "stop": "VontiKoppalTemple",
+                    "stop": "Vonti Koppal Temple",
                     "distance": "19.9",
                     "time": "10:50 "
                 },
@@ -29539,7 +29539,7 @@
                     "time": "09:57,17:37"
                 },
                 {
-                    "stop": "ChannahalliBore",
+                    "stop": "Channahalli Bore",
                     "distance": "17.91",
                     "time": "09:59,17:39 "
                 },
@@ -29961,7 +29961,7 @@
                     "time": "08:27,16:12,06:27"
                 },
                 {
-                    "stop": "HardingeCircle",
+                    "stop": "Hardinge Circle",
                     "distance": "16.09",
                     "time": "16:13,06:28,08:28"
                 },
@@ -30422,7 +30422,7 @@
                     "time": "17:39,12:30,16:33,11:54,19:55,15:09,18:49,14:10,09:38"
                 },
                 {
-                    "stop": "MysoreRural BusStand",
+                    "stop": "Mysore Rural Bus Stand",
                     "distance": "21.5",
                     "time": "15:11,18:51,14:12,09:40,17:41,12:32,16:35,11:56,19:57"
                 },
@@ -31497,7 +31497,7 @@
                     "time": "17:36,08:41,12:56"
                 },
                 {
-                    "stop": "City BusStand",
+                    "stop": "City Bus Stand",
                     "distance": "19",
                     "time": "12:57,17:37,08:42"
                 }
@@ -31505,7 +31505,7 @@
             "minimalStops": [
                 "Anuganahalli",
                 "Harsha Bar",
-                "City BusStand"
+                "City Bus Stand"
             ]
         },
         "327A Up": {
@@ -32130,7 +32130,7 @@
                     "time": "08:41"
                 },
                 {
-                    "stop": "City BusStand",
+                    "stop": "City Bus Stand",
                     "distance": "16.61",
                     "time": "08:42 "
                 }
@@ -32138,7 +32138,7 @@
             "minimalStops": [
                 "Beerihundi Circle",
                 "Harsha Bar",
-                "City BusStand"
+                "City Bus Stand"
             ]
         },
         "327M Up": {
@@ -32358,7 +32358,7 @@
                     "time": "12:13,09:00,07:48"
                 },
                 {
-                    "stop": "City BusStand",
+                    "stop": "City Bus Stand",
                     "distance": "20.01",
                     "time": "07:50,12:15,09:02"
                 }
@@ -32366,7 +32366,7 @@
             "minimalStops": [
                 "Mulluru",
                 "Shivapura",
-                "City BusStand"
+                "City Bus Stand"
             ]
         },
         "327N Up": {
@@ -32477,7 +32477,7 @@
                     "time": "08:08,18:24"
                 },
                 {
-                    "stop": "ShettynayakanahalliGate",
+                    "stop": "Shettynayakanahalli Gate",
                     "distance": "16.89",
                     "time": "08:11,18:27 "
                 },
@@ -32606,7 +32606,7 @@
                     "time": "09:06,19:22"
                 },
                 {
-                    "stop": "City BusStand",
+                    "stop": "City Bus Stand",
                     "distance": "17.83",
                     "time": "09:07,19:23 "
                 }
@@ -32614,7 +32614,7 @@
             "minimalStops": [
                 "Shettynayakanahalli",
                 "Amrutanandamayi Mutt",
-                "City BusStand"
+                "City Bus Stand"
             ]
         },
         "327S Up": {
@@ -33097,7 +33097,7 @@
                     "time": "16:47,18:24"
                 },
                 {
-                    "stop": "HardingeCircle",
+                    "stop": "Hardinge Circle",
                     "distance": "14.63",
                     "time": "16:49,18:26 "
                 },
@@ -33543,7 +33543,7 @@
                     "time": "06:46"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "0.9",
                     "time": "06:48"
                 },
@@ -35056,7 +35056,7 @@
                     "time": "06:49"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "2",
                     "time": "06:51"
                 },
@@ -35514,7 +35514,7 @@
                     "time": "18:00,08:16,21:07,11:11"
                 },
                 {
-                    "stop": "HardingeCircle",
+                    "stop": "Hardinge Circle",
                     "distance": "30.84",
                     "time": "18:02,08:18,21:09,11:13"
                 },
@@ -35871,7 +35871,7 @@
                     "time": "09:54,11:50,23:07,16:19,21:24,15:14,08:26,19:43,09:34"
                 },
                 {
-                    "stop": "AlalthurCircle",
+                    "stop": "Alalthur Circle",
                     "distance": "23.77",
                     "time": "15:16,08:28,19:45,09:36,09:56,11:52,23:09,16:21,21:26"
                 },
@@ -38469,7 +38469,7 @@
                     "time": "16:39,16:39,13:54,10:39,18:04,18:04,15:24,12:04,09:14"
                 },
                 {
-                    "stop": "BEMLNagar",
+                    "stop": "BEML Nagar",
                     "distance": "8.44",
                     "time": "16:40,16:40,13:55,10:40,18:05,18:05,15:25,12:05,09:15"
                 }
@@ -38477,7 +38477,7 @@
             "minimalStops": [
                 "City Bus Stand",
                 "Welding Shop",
-                "BEMLNagar"
+                "BEML Nagar"
             ]
         },
         "60B Down": {
@@ -39008,17 +39008,17 @@
                     "time": "05:47"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "1.6",
                     "time": "05:48"
                 },
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "2",
                     "time": "05:49"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "2.46",
                     "time": "05:50"
                 },
@@ -39098,7 +39098,7 @@
                     "time": "06:15"
                 },
                 {
-                    "stop": "RailwayStation",
+                    "stop": "Railway Station",
                     "distance": "11.25",
                     "time": "06:17 "
                 },
@@ -39380,7 +39380,7 @@
                     "time": "13:06,10:16,13:56,17:26,14:26,11:31,08:56,16:16"
                 },
                 {
-                    "stop": "AmmaComplex",
+                    "stop": "Amma Complex",
                     "distance": "5.79",
                     "time": "17:27,14:27,11:32,08:57,16:17,13:07,10:17,13:57"
                 },
@@ -39479,7 +39479,7 @@
                     "time": "10:51,08:08,08:38,17:56,15:26,12:01,09:26,14:31,16:46,13:36"
                 },
                 {
-                    "stop": "KuvempuNagarComplex",
+                    "stop": "Kuvempu Nagar Complex",
                     "distance": "4.13",
                     "time": "17:57,15:27,12:02,09:27,14:32,16:47,13:37,10:52,08:09,08:39"
                 },
@@ -39534,7 +39534,7 @@
                     "time": "12:15,09:40,14:45,17:00,13:50,11:05,08:22,08:52,18:10,15:40"
                 },
                 {
-                    "stop": "HardingeCircle",
+                    "stop": "Hardinge Circle",
                     "distance": "8.96",
                     "time": "17:02,13:52,11:07,08:24,08:54,18:12,15:42,12:17,09:42,14:47"
                 },
@@ -39638,12 +39638,12 @@
                     "time": "09:48,06:46,20:08,16:33,11:18,08:23,07:18,21:28,18:23,15:14"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "8.31",
                     "time": "20:10,16:35,11:20,08:25,07:20,21:30,18:25,15:16,09:50,06:48"
                 },
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "8.71",
                     "time": "07:21,21:31,18:26,15:17,09:51,06:49,20:11,16:36,11:21,08:26"
                 },
@@ -39653,7 +39653,7 @@
                     "time": "15:20,09:54,06:52,20:14,16:39,11:24,08:29,07:24,21:34,18:29"
                 },
                 {
-                    "stop": "NyayangaBadavane",
+                    "stop": "Nyayanga Badavane",
                     "distance": "10.01",
                     "time": "20:15,16:40,11:25,08:30,07:25,21:35,18:30,15:21,09:55,06:53"
                 },
@@ -39687,12 +39687,12 @@
                     "time": "08:48,07:33,18:43,15:33,10:08,07:03,20:28,16:53,11:38"
                 },
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "1.94",
                     "time": "20:31,16:56,11:41,08:51,07:36,18:46,15:36,10:11,07:06"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "2.4",
                     "time": "20:32,16:57,11:42,08:52,07:37,18:47,15:37,10:12,07:07"
                 },
@@ -39717,7 +39717,7 @@
                     "time": "20:39,17:04,11:49,08:59,07:44,18:54,15:44,10:19,07:14"
                 },
                 {
-                    "stop": "Ramakrishna NagarCircle",
+                    "stop": "Ramakrishna Nagar Circle",
                     "distance": "5.36",
                     "time": "10:21,07:16,20:41,17:06,11:51,09:01,07:46,18:56,15:46"
                 },
@@ -39772,7 +39772,7 @@
                     "time": "19:09,15:59,10:34,07:29,20:54,17:19,12:04,09:14,07:59"
                 },
                 {
-                    "stop": "LaxmiTalkies",
+                    "stop": "Laxmi Talkies",
                     "distance": "10.33",
                     "time": "08:01,19:11,16:01,10:36,07:31,20:56,17:21,12:06,09:16"
                 },
@@ -40352,7 +40352,7 @@
                     "time": "13:58,10:25,15:23,11:58"
                 },
                 {
-                    "stop": "HardingeCircle",
+                    "stop": "Hardinge Circle",
                     "distance": "9.69",
                     "time": "13:59,10:26,15:24,11:59"
                 },
@@ -40371,7 +40371,7 @@
         "69J Up": {
             "routes": [
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "0",
                     "time": "13:45,07:20,10:45,08:15,12:15,21:15,18:40,16:00,17:35,11:15,15:05,08:30,12:05,06:15,09:20,13:20,10:36,20:10,17:20,12:25,16:30,10:05"
                 },
@@ -40556,21 +40556,21 @@
                     "time": "11:12,08:42,12:42,21:42,19:07,16:27,18:02,11:42,15:32,08:57,12:32,06:42,09:47,13:47,11:03,20:37,17:47,12:52,16:57,10:32,14:12,07:47"
                 },
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "9.3",
                     "time": "12:18,16:08,09:48,13:43,07:18,10:38,13:18,10:36,21:13,18:23,15:48,17:33,11:08,14:48,08:23,11:58,09:13,11:38,22:18,19:53,17:03,18:48"
                 }
             ],
             "minimalStops": [
-                "Jodi Bevina Mara",
+                "JODI BEVINAMARA",
                 "Saraswathipuram 14th Main",
-                "Jodi Bevina Mara"
+                "JODI BEVINAMARA"
             ]
         },
         "69J Down": {
             "routes": [
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "0",
                     "time": "13:45,07:20,10:45,08:15,12:15,21:15,18:40,16:00,17:35,11:15,15:05,08:30,12:05,06:15,09:20,13:20,10:36,20:10,17:20,12:25,16:30,10:05"
                 },
@@ -40755,15 +40755,15 @@
                     "time": "11:12,08:42,12:42,21:42,19:07,16:27,18:02,11:42,15:32,08:57,12:32,06:42,09:47,13:47,11:03,20:37,17:47,12:52,16:57,10:32,14:12,07:47"
                 },
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "9.3",
                     "time": "12:18,16:08,09:48,13:43,07:18,10:38,13:18,10:36,21:13,18:23,15:48,17:33,11:08,14:48,08:23,11:58,09:13,11:38,22:18,19:53,17:03,18:48"
                 }
             ],
             "minimalStops": [
-                "Jodi Bevina Mara",
+                "JODI BEVINAMARA",
                 "Saraswathipuram 14th Main",
-                "Jodi Bevina Mara"
+                "JODI BEVINAMARA"
             ]
         },
         "70 Up": {
@@ -40824,7 +40824,7 @@
                     "time": "17:08,14:13,11:09,08:51,15:24,12:29,09:59"
                 },
                 {
-                    "stop": "Ramakrishna NagarCircle",
+                    "stop": "Ramakrishna Nagar Circle",
                     "distance": "6.49",
                     "time": "15:25,12:30,10:00,17:09,14:14,11:10,08:52"
                 },
@@ -41081,7 +41081,7 @@
                     "time": "14:51,09:46,14:06,17:01,08:41,12:16,16:21,12:06,10:46"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "0.9",
                     "time": "10:48,14:53,09:48,14:08,17:03,08:43,12:18,16:23,12:08"
                 },
@@ -41171,7 +41171,7 @@
                     "time": "15:16,10:11,14:31,17:26,09:06,12:41,16:46,12:31,11:11"
                 },
                 {
-                    "stop": "Vani VilasMarket",
+                    "stop": "Vani Vilas Market",
                     "distance": "9.9",
                     "time": "15:20,10:15,14:35,17:30,09:10,12:45,16:50,12:35,11:15"
                 },
@@ -41445,7 +41445,7 @@
                     "time": "17:03,11:58,16:08,12:48,14:28,18:23,13:53,10:33"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "17.93",
                     "time": "16:09,12:49,14:29,18:24,13:54,10:34,17:04,11:59"
                 },
@@ -41653,7 +41653,7 @@
                     "time": "18:48,12:02,17:12"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "9.29",
                     "time": "17:13,18:49,12:03"
                 },
@@ -41687,7 +41687,7 @@
                     "time": "08:03,13:13"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "1.4",
                     "time": "08:04,13:14"
                 },
@@ -42409,7 +42409,7 @@
                     "time": "11:39,12:54,10:24"
                 },
                 {
-                    "stop": "DoddaGadiyara",
+                    "stop": "Dodda Gadiyara",
                     "distance": "8.88",
                     "time": "12:57,10:27,11:42"
                 },
@@ -42506,7 +42506,7 @@
             ],
             "minimalStops": [
                 "BEML Nagar",
-                "DoddaGadiyara",
+                "Dodda Gadiyara",
                 "BEML Nagar"
             ]
         },
@@ -42598,7 +42598,7 @@
                     "time": "11:11,13:14,17:55,11:26,13:16,18:16,20:26,14:16,18:41,20:07,12:16,07:43,11:36,09:36,15:41"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "8.99",
                     "time": "11:12,13:15,17:56,11:27,13:17,18:17,20:27,14:17,18:42,20:08,12:17,07:44,11:37,09:37,15:42"
                 },
@@ -42632,7 +42632,7 @@
                     "time": "16:01,13:21,05:56,07:51,09:01,06:51,14:36,18:46,14:36,07:36,16:36,08:06,14:51,17:16"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "0.9",
                     "time": "18:48,14:38,07:38,16:38,08:08,14:53,17:18,16:03,13:23,05:58,07:53,09:03,06:53,14:38"
                 },
@@ -43212,7 +43212,7 @@
                     "time": "18:57"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "11.2",
                     "time": "18:59"
                 },
@@ -43261,7 +43261,7 @@
                     "time": "19:37,06:50"
                 },
                 {
-                    "stop": "Water Tank",
+                    "stop": "WATER TANK",
                     "distance": "5.87",
                     "time": "19:43,06:56"
                 },
@@ -43371,7 +43371,7 @@
                     "time": "07:33,20:20"
                 },
                 {
-                    "stop": "City BusStand",
+                    "stop": "City Bus Stand",
                     "distance": "18.97",
                     "time": "07:35,20:22 "
                 }
@@ -43379,7 +43379,7 @@
             "minimalStops": [
                 "Ballahalli",
                 "Maruthi Temple",
-                "City BusStand"
+                "City Bus Stand"
             ]
         },
         "91G Up": {
@@ -44134,7 +44134,7 @@
                     "time": "08:36,20:11,12:06,21:41,15:36"
                 },
                 {
-                    "stop": "AmruthaBakery",
+                    "stop": "Amrutha Bakery",
                     "distance": "7.38",
                     "time": "21:42,15:37,08:37,20:12,12:07"
                 },
@@ -44278,7 +44278,7 @@
                     "time": "16:35,09:25,21:10,12:55"
                 },
                 {
-                    "stop": "SanskritPathashale",
+                    "stop": "Sanskrit Pathashale",
                     "distance": "10.46",
                     "time": "16:36,09:26,21:11,12:56"
                 },
@@ -44684,7 +44684,7 @@
                     "time": "17:55,08:00,19:20,11:20"
                 },
                 {
-                    "stop": "ShanthalaTalkies",
+                    "stop": "Shanthala Talkies",
                     "distance": "10.14",
                     "time": "17:55,08:00,19:20,11:20"
                 },
@@ -44813,7 +44813,7 @@
                     "time": "09:35,09:35,20:30,20:30"
                 },
                 {
-                    "stop": "Jodi Bevina Mara",
+                    "stop": "JODI BEVINAMARA",
                     "distance": "9.02",
                     "time": "09:37,09:37,20:32,20:32"
                 },
@@ -45042,7 +45042,7 @@
                     "time": "11:06"
                 },
                 {
-                    "stop": "HardingeCircle",
+                    "stop": "Hardinge Circle",
                     "distance": "10.2",
                     "time": "11:08 "
                 },
@@ -45171,7 +45171,7 @@
                     "time": "14:06,09:06"
                 },
                 {
-                    "stop": "ShanthalaTalkies",
+                    "stop": "Shanthala Talkies",
                     "distance": "12.4",
                     "time": "14:07,09:07 "
                 },
@@ -45552,7 +45552,7 @@
                     "time": "16:45,14:15,08:15,14:00,05:35,06:05,10:45,14:35,14:25"
                 },
                 {
-                    "stop": "VontiKoppalTemple",
+                    "stop": "Vonti Koppal Temple",
                     "distance": "5.43",
                     "time": "10:46,14:36,14:26,16:46,14:16,08:16,14:01,05:36,06:06"
                 },
@@ -45594,7 +45594,7 @@
             ],
             "minimalStops": [
                 "Vijaya Nagara Depot",
-                "VontiKoppalTemple",
+                "Vonti Koppal Temple",
                 "City Bus Stand"
             ]
         },
